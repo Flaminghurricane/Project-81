@@ -32,5 +32,3 @@ export default function BottomTabNavigator() {
   </Tab.Navigator>
   )
 }
-
-export default BottomTabNavigator
